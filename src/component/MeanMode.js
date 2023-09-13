@@ -73,7 +73,7 @@ const MeanMode = () => {
         <h1> Data Visualization</h1>
       </center>
 
-      <div style={{ marginLeft: "-5px", marginRight: "-5px" }}>
+      <div style={{ marginLeft: "5px", marginRight: "5px" }}>
         <div
           style={{ float: "left", width: "50%", padding: "5px" }}
           dangerouslySetInnerHTML={{ __html: processData("Flavanoids") }}
